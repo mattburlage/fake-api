@@ -3,7 +3,8 @@
         {
             "id": 1,
             "name": "Bolognese",
-            "img": "https://bit.ly/2WuAxWd"
+            "img": "https://bit.ly/2WuAxWd",
+            "price": 1500
         }
     ]
 }
