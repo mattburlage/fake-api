@@ -84,5 +84,18 @@
                 }
             ]
         }
+    ],
+    "carts": [
+        {
+            "id": 1,
+            "items": [
+                {
+                    "id": 2,
+                    "name": "Breadsticks",
+                    "img": "https://bit.ly/3zm4DtT",
+                    "price": 800
+                }
+            ]
+        }
     ]
 }
