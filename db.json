@@ -1,10 +1,27 @@
 {
     "menu": [
         {
-            "id": 1,
-            "name": "Bolognese",
-            "img": "https://bit.ly/2WuAxWd",
-            "price": 1500
+            "name": "Appetizers",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Bolognese",
+                    "img": "https://bit.ly/2WuAxWd",
+                    "price": 1500
+                },
+                {
+                    "id": 2,
+                    "name": "Bolognese",
+                    "img": "https://bit.ly/2WuAxWd",
+                    "price": 1500
+                },
+                {
+                    "id": 3,
+                    "name": "Bolognese",
+                    "img": "https://bit.ly/2WuAxWd",
+                    "price": 1500
+                }
+            ]
         }
     ]
 }
